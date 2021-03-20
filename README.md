@@ -6,6 +6,10 @@ Based on work done by:
 - reddit posts by forgotten hero that helped me with my iGPU :)
 - forums, etc..
 
+My config:
+- i5 8265U (UHD 620)
+https://www.notebookcheck.net/HP-EliteBook-840-G6-6XD76EA.441613.0.html
+
 **Upgrade your BIOS to latest version!**. \
 **Set iGPU to 64MB in BIOS**. \
 **Generate your own serial etc. https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial**. 
