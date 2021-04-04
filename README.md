@@ -26,8 +26,7 @@ I didn't fork @kecinzer or @Joaotcs repo's since I didnt keep track of all the c
 - Added SSDT-XOSI for trackpad fix (not using @Joaotcs/kecinzer patches since it didn't work for this trackpad)
 - Configured OpenCanopy with custom theme - opencanopy-minimal-theme
 - New OpenCore secure boot options not used (https://github.com/kecinzer/hpelitebook850g5-opencore/tree/master/secureboot)
-- Using alpha Airportitlwm.kext for stock Intel Wifi 
-httpgit coms://github.com/OpenIntelWireless/itlwm
+- Using alpha Airportitlwm.kext for stock Intel Wifi https://github.com/OpenIntelWireless/itlwm
 - SMBIOS config options to support Windows 10 (multi-)booting using Opencore loader with no issues (working great so far, no issues with major version updates/licence/devices not working..)
 - Removed @kecinzer's SSDT-INPUT.aml to fix brightness up/down special keys, since his custom remapping wasn't valid for this laptop (if brightness keys still dont work just hold power button for 30 sec - thanks to @borygo77 - https://github.com/kecinzer/hpelitebook850g5-opencore/issues/22)
 
