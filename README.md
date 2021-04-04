@@ -10,7 +10,7 @@ https://www.notebookcheck.net/HP-EliteBook-840-G6-6XD76EA.441613.0.html
 - https://github.com/kecinzer/hpelitebook850g5-opencore
 - https://github.com/Joaotcs/Hackintosh-Elitebook-8x0-g5
 - r/hackintosh reddit post by forgotten hero that helped me with iGPU :)
-- Dortania'a Guide of all guides
+- Dortania's Guide of all guides
 - forums, trial and error, etc..
 
 I didn't fork @kecinzer or @Joaotcs repo's since I didnt keep track of all the changes I made from the beginning, but most of the heavy lifting was done by them.
